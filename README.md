@@ -1,6 +1,7 @@
 # Destiny-Draw
 
 How to play?
+
 *Click DestinyDraw.jar in the DestinyDraw folder.
 
 How to find src?
